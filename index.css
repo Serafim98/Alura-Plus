@@ -106,7 +106,6 @@ body{
 .final{
     grid-template-columns: 100%;
 }
-
 .container__descricao_final{
     align-items: center;
     text-align: center;
